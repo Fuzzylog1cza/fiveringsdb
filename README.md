@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/fatihi/fiveringsdb.svg?branch=master)](https://travis-ci.org/fatihi/fiveringsdb)
+[![Build Status](https://travis-ci.org/Fuzzylog1cza/fiveringsdb.svg?branch=master)](https://travis-ci.org/Fuzzylog1cza/fiveringsdb)
 
 # FiveRingsDb
 
